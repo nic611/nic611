@@ -4,6 +4,9 @@ Frontend engineer in Guangzhou — 12 years on the web, the last few years build
 
 These days most of my energy goes into making AI do real engineering work — OpenCode and Copilot in the enterprise, Claude Code at home. I build the workflows, not just use them.
 
+<p align="center"><img src="assets/dep-doctor-demo.svg" width="520" alt="dep-doctor scanning the migration lab — real output" /></p>
+<p align="center"><sub>dep-doctor scanning the migration lab — real output, no mockups</sub></p>
+
 **Building**
 
 - [claude-engineering-kit](https://github.com/nic611/claude-engineering-kit) — my daily Claude Code setup: agents, skills, commands, rules, hooks
