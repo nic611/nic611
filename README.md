@@ -1,6 +1,6 @@
 Hey, I'm nic 👋
 
-Frontend engineer in Guangzhou — 12 years on the web, the last 5 building an enterprise micro-frontend platform in banking: shell/plugin architecture, shared component libraries, internal CLI tooling, legacy migration.
+Frontend engineer in Guangzhou — 12 years on the web, the last few years building a large-scale enterprise micro-frontend platform: shell/plugin architecture, shared component libraries, internal CLI tooling, legacy migration.
 
 These days most of my energy goes into making AI do real engineering work — OpenCode and Copilot in the enterprise, Claude Code at home. I build the workflows, not just use them.
 
